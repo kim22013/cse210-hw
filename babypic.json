@@ -1,0 +1,15 @@
+[
+    {
+        "weekNum": "Week 1",
+        "imageURL": "file:///C:/Users/JaeRan/Downloads/BYU-IDAHO/CSE%20121B/week06/student_files/scripts/babyPictures/babypic1.jpeg"
+    },
+    {
+        "weekNum": "Week 2",
+        "imageURL": "file:///C:/Users/JaeRan/Downloads/BYU-IDAHO/CSE%20121B/week06/student_files/scripts/babyPictures/babypic2.jpeg"
+    },
+    { 
+        "weekNum": "Week 3",
+        "imageURL": "file:///C:/Users/JaeRan/Downloads/BYU-IDAHO/CSE%20121B/week06/student_files/scripts/babyPictures/babypic3.jpeg"
+    }
+
+]
